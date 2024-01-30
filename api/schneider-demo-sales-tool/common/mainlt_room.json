@@ -1028,5 +1028,41 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Busways",
+        "description": "This is the Busways",
+        "iconlink": "",
+        "features": [
+        ],
+        "safety features": [],
+        "availability features":[],
+        "efficiency features":[],
+        "sustainability features":[],
+        "links":[
+            {
+                "name": "Brochure",
+                "type": 0,
+                "link": "www"
+            },
+            {
+                "name": "Video",
+                "type": 1,
+                "link": "www"
+            },
+            {
+                "name": "PDF",
+                "type": 2,
+                "link": "www"
+            },
+            {
+                "name": "Others",
+                "type": 3,
+                "link": "www"
+            }
+        ],
+        "products":[
+            
+        ]
     }
 ]
