@@ -882,26 +882,16 @@
                     },
                     {
                         "id": 3,        
-                        "name": "Rack Out Product",
-                        "description": "This is Feature 3"
-                    },
-                    {
-                        "id": 4,        
                         "name": "BCM Module, ULP cord",
                         "description": "This is Feature 3"
                     },
                     {
-                        "id": 5,        
+                        "id": 4,        
                         "name": "Rogowski CT",
                         "description": "This is Feature 3"
                     },
                     {
-                        "id": 6,        
-                        "name": "Patented Arc Chutes",
-                        "description": "This is Feature 3"
-                    },
-                    {
-                        "id": 7,        
+                        "id": 5,        
                         "name": "Terminal Adaptors",
                         "description": "This is Feature 3"
                     }
