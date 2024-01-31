@@ -247,7 +247,7 @@
     {
         "name": "SubLT",
         "description": "This is the SubLT",
-        "iconlink": "",
+        "iconlink": "https://irexstudiodev.github.io/api/schneider-demo-sales-tool/icons/SubDistriBoard.png",
         "features": [
             {
                 "id": 1,        
@@ -296,7 +296,7 @@
     {
         "name": "Rising main",
         "description": "This is the Rising main",
-        "iconlink": "",
+        "iconlink": "https://irexstudiodev.github.io/api/schneider-demo-sales-tool/icons/High Power Busway.png",
         "features": [
             {
                 "id": 1,        
@@ -345,7 +345,7 @@
     {
         "name": "Office EB Room",
         "description": "This is the Office EB Room",
-        "iconlink": "",
+        "iconlink": "https://irexstudiodev.github.io/api/schneider-demo-sales-tool/icons/MCB DB.png",
         "features": [
             {
                 "id": 1,        
@@ -394,7 +394,7 @@
     {
         "name": "Data centre EB room",
         "description": "This is the Data centre EB room",
-        "iconlink": "",
+        "iconlink": "https://irexstudiodev.github.io/api/schneider-demo-sales-tool/icons/MCB DB.png",
         "features": [
             {
                 "id": 1,        

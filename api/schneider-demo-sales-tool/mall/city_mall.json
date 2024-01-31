@@ -247,7 +247,7 @@
     {
         "name": "Sub LT",
         "description": "This is the SubLT",
-        "iconlink": "",
+        "iconlink": "https://irexstudiodev.github.io/api/schneider-demo-sales-tool/icons/SubDistriBoard.png",
         "features": [
             {
                 "id": 1,        
@@ -296,7 +296,7 @@
     {
         "name": "EB Room",
         "description": "This is the EB Room",
-        "iconlink": "",
+        "iconlink": "https://irexstudiodev.github.io/api/schneider-demo-sales-tool/icons/MCB DB.png",
         "features": [
             {
                 "id": 1,        

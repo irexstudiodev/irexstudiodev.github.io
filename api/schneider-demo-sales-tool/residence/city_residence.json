@@ -296,7 +296,7 @@
     {
         "name": "High Rise Main",
         "description": "A Rising Main, also known as a Rising Mains System, refers to a vertical electrical distribution system used to supply power to multiple floors or levels within a building. It consists of electrical cables or busbars that run vertically from the main electrical distribution panel, typically located on the ground floor to various distribution points on higher floors.",
-        "iconlink": "",
+        "iconlink": "https://irexstudiodev.github.io/api/schneider-demo-sales-tool/icons/High Power Busway.png",
         "features": [
             {
                 "id": 1,        
@@ -345,7 +345,7 @@
     {
         "name": "EB Room",
         "description": "This is the EB Room",
-        "iconlink": "",
+        "iconlink": "https://irexstudiodev.github.io/api/schneider-demo-sales-tool/icons/MCB DB.png",
         "features": [
             {
                 "id": 1,        
