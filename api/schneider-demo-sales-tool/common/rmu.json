@@ -1,53 +1,51 @@
 [
-    {
-        "name": "FBX Express Ring Main Unit",
-        "description": "FBX Express covers a wide range of applications for MV secondary distribution up to 12 kV. It is an ideal solution for building applications such as: offices,hotels, shops...",
-        "iconlink": "",
-        "features": [
-            {
-                "id": 1,        
-                "name": "Range Overview",
-                "description": "Gas insulated switchgear 12 kV 21kA/3sec suitable for transformer protection from 200 kVA up to 2500 kVA."
-            },
-            {
-                "id": 2,        
-                "name": "Safety and Compliance",
-                "description": "Comply to IEC – 62271-100 standard and are IAC – AFL tested. The new designed IP54 enclosure brings extended lifetime for outdoor installations."
-            },
-            {
-                "id": 3,        
-                "name": "Easy Selection",
-                "description": "\u2022 A simple & dedicated online selection for FBX India with 29 standard references.\n \u2022 Configure/Select equipment online with Ecoreal Express."
-            }
-        ],
-        "safety features": [],
-        "availability features":[],
-        "efficiency features":[],
-        "sustainability features":[],
-        "links":[
-            {
-                "name": "Brochure",
-                "type": 0,
-                "link": "www"
-            },
-            {
-                "name": "Video",
-                "type": 1,
-                "link": "www"
-            },
-            {
-                "name": "PDF",
-                "type": 2,
-                "link": "www"
-            },
-            {
-                "name": "Others",
-                "type": 3,
-                "link": "www"
-            }
-        ],
-        "products":[
-            
-        ]
-    }
+  {
+    "name": "FBX Express Ring Main Unit",
+    "description": "FBX Express covers a wide range of applications for MV secondary distribution up to 12 kV. It is an ideal solution for building applications such as: offices,hotels, shops...",
+    "iconlink": "",
+    "features": [
+      {
+        "id": 1,
+        "name": "Range Overview",
+        "description": "Gas insulated switchgear 12 kV 21kA/3sec suitable for transformer protection from 200 kVA up to 2500 kVA."
+      },
+      {
+        "id": 2,
+        "name": "Safety and Compliance",
+        "description": "Comply to IEC – 62271-100 standard and are IAC – AFL tested. The new designed IP54 enclosure brings extended lifetime for outdoor installations."
+      },
+      {
+        "id": 3,
+        "name": "Easy Selection",
+        "description": "A simple & dedicated online selection for FBX India with 29 standard references. \n \u2022 Configure/Select equipment online with Ecoreal Express"
+      }
+    ],
+    "safety features": [],
+    "availability features": [],
+    "efficiency features": [],
+    "sustainability features": [],
+    "links": [
+      {
+        "name": "Brochure",
+        "type": 0,
+        "link": "www"
+      },
+      {
+        "name": "Video",
+        "type": 1,
+        "link": "www"
+      },
+      {
+        "name": "PDF",
+        "type": 2,
+        "link": "www"
+      },
+      {
+        "name": "Others",
+        "type": 3,
+        "link": "www"
+      }
+    ],
+    "products": []
+  }
 ]

@@ -1,23 +1,23 @@
 [
     {
         "name": "PIX Easy",
-        "description": "This is the PIX Easy",
+        "description": "Indoor switchgear with withdrawable EasyPact EXE vacuum circuit breaker, up to 2500A, 31.5 kA , providing high level of safety, simplicity to use and strong reliability.",
         "iconlink": "",
         "features": [
             {
                 "id": 1,        
-                "name": "Feature 1",
-                "description": "This is Feature 1"
+                "name": "Safety",
+                "description": "\u2022Fully type tested according to latest IEC standards for 50 and 60 Hz \n \u2022 Internal arc tested up to 31.5 kA with AFLR \n \u2022 Full metal partition PM class switchgear \n \u2022 Mechanical and electrical interlock embeded to address operator safety"
             },
             {
                 "id": 2,        
-                "name": "Feature 2",
-                "description": "This is Feature 2"
+                "name": "Efficiency",
+                "description": "Compact dimensions start with a 600mm wide cubicle for ratings up to 1250A and a 800mm wide cubicle for ratings up to 2500A, for up to 17.5 kV rated voltage"
             },
             {
                 "id": 3,        
-                "name": "Feature 3",
-                "description": "This is Feature 3"
+                "name": "Reliability",
+                "description": "Maximizing service continuity to minimize down time thanks to LSC-2B IEC classification \n \u2022 Busbar segregation between cubicles (option) \n \u2022 It is designed for 30 years life time with respect of installation, operations and environmental conditions"
             }
         ],
         "safety features": [],
@@ -28,43 +28,68 @@
             {
                 "name": "Brochure",
                 "type": 0,
-                "link": "www"
+                "link": "https://download.schneider-electric.com/files?p_Doc_Ref=NRJCAT19841EN"
             },
             {
                 "name": "Video",
                 "type": 1,
                 "link": "www"
-            },
-            {
-                "name": "PDF",
-                "type": 2,
-                "link": "www"
-            },
+            },            
             {
                 "name": "Others",
                 "type": 3,
-                "link": "www"
+                "link": "https://www.se.com/id/en/product-range/65449-pix-easy/#overview"
             }
         ],
         "products":[
             {
-                "name": "ARC flash relay",
-                "description": "This is ARC flash relay",
+                "name": "ARC Flash Relay",
+                "description": "The VAMP 300 series offers a comprehensive family of protection and control devices with versatile measurement functions for the management of feeders, motors, generators and transformers.",
                 "features": [
                     {
                         "id": 1,        
-                        "name": "Feature 1",
-                        "description": "This is Feature 1"
+                        "name": "Complete protection for feeders and motors",
+                        "description": "Comprehensive selection of protection functions for distribution network overhead lines, cable feeders and motors."
                     },
                     {
                         "id": 2,        
-                        "name": "Feature 2",
-                        "description": "This is Feature 2"
+                        "name": "Ultra-fast arc protection",
+                        "description": "The unique integrated arc fault functionality adds a new dimension to the total safety of the installation and the reliability of the protection and control system. Interface a maximum of 6 point sensors or 1 fibre loop and 4 point sensors to extend the protection scheme to a new dimension with 2 ms tripping time."
                     },
                     {
                         "id": 3,        
-                        "name": "Feature 3",
-                        "description": "This is Feature 3"
+                        "name": "Total control",
+                        "description": "Extensive bay control functionality including local and remote control of 6 objects and status supervision of another 2 objects. Easy-to-use ON – OFF buttons for select – execute control of circuit breaker."
+                    },
+                    {
+                        "id": 4,        
+                        "name": "Comprehensive measurements",
+                        "description": "A range of measurement functions including phase and residual currents, residual, line or phase voltage, frequency, current imbalance, maximum demand, negative phase sequence current, active and reactive power and energy according to the primary connection."
+                    },
+                    {
+                        "id": 5,        
+                        "name": "Power quality analysis",
+                        "description": "Power quality analysis includes supervision of harmonics up to the 15th order, THD of currents and voltage as well as voltage sag and swell."
+                    },
+                    {
+                        "id": 6,        
+                        "name": "Full recording features",
+                        "description": "Following a fault, the relays provide upto 2000 event sequence recordings, fault value registration and disturbance recordings."
+                    },
+                    {
+                        "id": 7,        
+                        "name": "Programmable protection stages",
+                        "description": "Including overcurrent, overvoltage, undervoltage, earth fault and frequency protection."
+                    },
+                    {
+                        "id": 8,        
+                        "name": "Extensive communication",
+                        "description": "A large number of supported communication protocols are included: IEC 60870-5-101, IEC 60870-5-103, Modbus TCP, Modbus RTU, Profibus DP, TCP/IP, SPA-bus slave, DNP 3.0 and IEC 61850."
+                    },
+                    {
+                        "id": 9,        
+                        "name": "User-friendly configuration",
+                        "description": "The free of charge VAMPSET software simplifies configuration, commissioning and operation and ensures the protection and control needs of users are easily achieved. Standard USB (type B) cable and connection for setting tool."
                     }
                 ],
                 "safety features": [],
@@ -81,37 +106,32 @@
                         "name": "Video",
                         "type": 1,
                         "link": "www"
-                    },
-                    {
-                        "name": "PDF",
-                        "type": 2,
-                        "link": "www"
-                    },
+                    },                    
                     {
                         "name": "Others",
                         "type": 3,
-                        "link": "www"
+                        "link": "https://www.se.com/in/en/product-subcategory/4765-vamp-protection/"
                     }
                 ]
             },
             {
-                "name": "MVATS",
-                "description": "This is MVATS",
+                "name": "ASCO 7000 Series IEC MVATS",
+                "description": "ASCO power products are designed for robust, intelligent, and advanced power transfer and control with extensive diagnostic capabilities. The 7000 SERIES Medium Voltage Transfer Switch provides continuous power in the widest range of emergency and standby power applications including healthcare, industrial, commercial, and business-critical campuses and facilities.",
                 "features": [
                     {
                         "id": 1,        
-                        "name": "Feature 1",
-                        "description": "This is Feature 1"
+                        "name": "Range Overview",
+                        "description": "\u2022 Medium Voltage ATS Ranging from 3.3kV, 6.6kV, 7.2kV, 11kV, 13.8kV \n \u2022 Current Rating - 630A, 800A, 1250A, 2000A, 2500A"
                     },
                     {
                         "id": 2,        
-                        "name": "Feature 2",
-                        "description": "This is Feature 2"
+                        "name": "Unique Features",
+                        "description": "\u2022 Automatic switching and source control equipment conforming to the IEC 62271-200 standard. \n \u2022 Three innovative sections : Normal Source Circuit Breaker section (Grid Incomer), Emergency Source Circuit Breaker section (Generator Incomer), and Load feeder section. \n \u2022 Transition Type: Delayed or Closed \n \u2022 Internal Arc Classification:  AFLR Up to 31.5kA for 1 second"
                     },
                     {
                         "id": 3,        
-                        "name": "Feature 3",
-                        "description": "This is Feature 3"
+                        "name": "ASCO Group5 Controller",
+                        "description": "\u2022 ASCO’s 7000 Series Controller provides all of the voltage, frequency, control, timing, and diagnostic functions required for most emergency and standby power applications \n \u2022 5170 Communication Module unlocks critical power data \n \u2022 Metered Parameters - Voltages (LL/LN) & Current, Unbalance (V & I), Power (kW, kVA & kVAR) & Power Factor, Energy (kWh, kVAh & kVARh), Total Harmonic Distortion (%), kW Demand, Engine Run Time, Min/Max Historical Values "
                     }
                 ],
                 "safety features": [],
@@ -122,44 +142,29 @@
                     {
                         "name": "Brochure",
                         "type": 0,
-                        "link": "www"
+                        "link": "https://download.schneider-electric.com/files?p_Doc_Ref=ASC-ATS-BR-ATSOVERVIEW&p_enDocType=Brochure&p_File_Name=ASCO-ATS+Overview-Catalog-pub2062-R5.pdf"
                     },
                     {
                         "name": "Video",
                         "type": 1,
                         "link": "www"
-                    },
-                    {
-                        "name": "PDF",
-                        "type": 2,
-                        "link": "www"
-                    },
+                    },                    
                     {
                         "name": "Others",
                         "type": 3,
-                        "link": "www"
+                        "link": "https://www.se.com/in/en/product-range/66471-asco-7000-series-medium-voltage-transfer-switch-iec/?parent-subcategory-id=89175&filter=business-4-low-voltage-products-and-systems"
                     }
                 ]
             },
             {
-                "name": "Easypact exe",
-                "description": "This is Easypact exe",
+                "name": "EasyPacT EXE",
+                "description": "EasyPactEXE is a range of vacuum circuit breakers designed to connect building infrastructure (heating, ventilation, or lighting.) and industrial plant processes (MV motors, MV/LV substations, or furnaces) to the power grid, and protects your people and equipment. ",
                 "features": [
                     {
                         "id": 1,        
-                        "name": "Feature 1",
-                        "description": "This is Feature 1"
-                    },
-                    {
-                        "id": 2,        
-                        "name": "Feature 2",
-                        "description": "This is Feature 2"
-                    },
-                    {
-                        "id": 3,        
-                        "name": "Feature 3",
-                        "description": "This is Feature 3"
-                    }
+                        "name": "Range Overview",
+                        "description": "It enables the panel builder to design fixed and withdrawable type switchgear solutions with enhanced safety features, complete control from a separate room, and with the following technical characteristics: \n \u2022 Rated voltage 7,2/12kV-17,5kV \n \u2022 Rated short-circuit breaking current: 20kA-25kA-31,5kA \n \u2022 Rated normal current: 630A-800A-1250A-1600A-2000A-2500A."
+                    }                    
                 ],
                 "safety features": [],
                 "availability features":[],
@@ -169,44 +174,30 @@
                     {
                         "name": "Brochure",
                         "type": 0,
-                        "link": "www"
+                        "link": "https://download.schneider-electric.com/files?p_Doc_Ref=NRJED316708EN"
                     },
                     {
                         "name": "Video",
                         "type": 1,
-                        "link": "www"
-                    },
-                    {
-                        "name": "PDF",
-                        "type": 2,
-                        "link": "www"
-                    },
+                        "link": "https://youtu.be/Qv5j1Ox4onY"
+                    },                    
                     {
                         "name": "Others",
                         "type": 3,
-                        "link": "www"
+                        "link": "https://www.se.com/in/en/product-range/63374-easypact-exe/"
                     }
                 ]
             },
             {
                 "name": "Earthing Switch",
-                "description": "This is Earthing Switch",
+                "description": "The integrated earth switch with fault making capacity makes it possible to earth the cables or the Busbar (depending on the cubicle) and ensures safety during maintenance. As per IEC 62271-102 the integrated earth switch is E1 M0 Class.Earthing switch making capacity 82kA(peak)",
                 "features": [
                     {
                         "id": 1,        
-                        "name": "Feature 1",
-                        "description": "This is Feature 1"
-                    },
-                    {
-                        "id": 2,        
-                        "name": "Feature 2",
-                        "description": "This is Feature 2"
-                    },
-                    {
-                        "id": 3,        
-                        "name": "Feature 3",
-                        "description": "This is Feature 3"
+                        "name": "",
+                        "description": ""
                     }
+                    
                 ],
                 "safety features": [],
                 "availability features":[],
@@ -237,23 +228,13 @@
             },
             {
                 "name": "Climate sensor",
-                "description": "This is Climate sensor",
+                "description": "It is a wireless sensor that enables the continuous environmental condition monitoring of an enclosure (de-energised surface) such as a switchgear cabinet. The measurement features both the temperature of the surface in contact and the relative humidity.",
                 "features": [
                     {
                         "id": 1,        
-                        "name": "Feature 1",
-                        "description": "This is Feature 1"
-                    },
-                    {
-                        "id": 2,        
-                        "name": "Feature 2",
-                        "description": "This is Feature 2"
-                    },
-                    {
-                        "id": 3,        
-                        "name": "Feature 3",
-                        "description": "This is Feature 3"
-                    }
+                        "name": "Unique Features",
+                        "description": "\u2022 Continuous environmental monitoring allows users of MV and LV switchgear to optimise predictive maintenance by avoiding conditions of deterioration due to moisture and pollution. \n \u2022It is battery-powered and allows simple fixing on magnetic metal surfaces thanks to its high-strength magnets.\n \u2022 The sensors contribute to EcoStruxure architectures, either on cloud or on premises to deliver a truly intelligent condition-based maintenance advisor for reduced risk, continuity of service, and maintenance optimisation."
+                    }                    
                 ],
                 "safety features": [],
                 "availability features":[],
@@ -263,44 +244,29 @@
                     {
                         "name": "Brochure",
                         "type": 0,
-                        "link": "www"
+                        "link": "https://download.schneider-electric.com/files?p_enDocType=Catalog&p_File_Name=DIA5ED2121214EN.pdf&p_Doc_Ref=DIA5ED2121214EN"
                     },
                     {
                         "name": "Video",
                         "type": 1,
                         "link": "www"
-                    },
-                    {
-                        "name": "PDF",
-                        "type": 2,
-                        "link": "www"
-                    },
+                    },                    
                     {
                         "name": "Others",
                         "type": 3,
-                        "link": "www"
+                        "link": "https://www.se.com/uk/en/product/ZBRTT1/easergy-cl110-wireless-environmental-temperature-and-humidity-sensor/"
                     }
                 ]
             },
             {
                 "name": "Thermal sensor",
-                "description": "This is Thermal sensor",
+                "description": "Easergy TH110 is a wireless sensor that enables the continuous thermal condition monitoring of all the critical connections made on the field, such as: cables, withdrawable Circuit Breakers (CB)",
                 "features": [
                     {
                         "id": 1,        
-                        "name": "Feature 1",
-                        "description": "This is Feature 1"
-                    },
-                    {
-                        "id": 2,        
-                        "name": "Feature 2",
-                        "description": "This is Feature 2"
-                    },
-                    {
-                        "id": 3,        
-                        "name": "Feature 3",
-                        "description": "This is Feature 3"
-                    }
+                        "name": "Unique Features",
+                        "description": "\u2022 Compliance to Standard : IEC 61010:2010+A1:2016 (UL 61010 -1 2012) \n \u2022 52kV Voltage Operations \n \u2022 5000A Current Operations without exceeding the temperature rise limits \n \u2022 Easergy TH110 is self-powered by the network current. Temperature data is sent via Zigbee wireless communication to provide high performance and accurate thermal monitoring, can replace the need of periodic infrared scanning.                     4. Zigbee Green power at 2.4 GHz according to IEEE 802.15.4"
+                    }                    
                 ],
                 "safety features": [],
                 "availability features":[],
@@ -310,18 +276,13 @@
                     {
                         "name": "Brochure",
                         "type": 0,
-                        "link": "www"
+                        "link": "https://www.se.com/in/en/product-range/64883-powerlogic-thermal-tag-th110/#overview"
                     },
                     {
                         "name": "Video",
                         "type": 1,
-                        "link": "www"
-                    },
-                    {
-                        "name": "PDF",
-                        "type": 2,
-                        "link": "www"
-                    },
+                        "link": "https://youtu.be/zhQdq6oIRn8?si=aOSCyxuIsFmWnBWb"
+                    },                    
                     {
                         "name": "Others",
                         "type": 3,
@@ -330,24 +291,14 @@
                 ]
             },
             {
-                "name": "FE Logboook QR code",
-                "description": "FE Logboook QR code",
+                "name": "FE Logboook",
+                "description": "The digital logbook is an easy to use collaborative tool that keeps record of important documentation and maintenance schedules. With EcoStruxure Power from Schneider Electric, you can offer your customers the cutting-edge, end-to-end digital solutions they are looking for to make their buildings more efficient and reliable. And now, with the addition of the Digital Logbook, EcoStruxure Power is an even stronger asset in all phases of a building’s lifecycle – from design and installation to operation and maintenance. The digital logbook can be initiated by a panel builder using EcoStruxure Power Commission during switchboard construction. Then during the project handover, this “digital twin” can be shared to the contractor or the Facility Manager on EcoStruxure Facility Expert. The Digital Twin allows people to keep record of important construction documentations, user guide and maintenance schedules, collaborating better and delivering with greater insights and cost savings. And once a building is operational, facility managers or service providers have easy access to key information and maintenance plan which is critical for electrical facility upkeep.",
                 "features": [
                     {
                         "id": 1,        
-                        "name": "Feature 1",
-                        "description": "This is Feature 1"
-                    },
-                    {
-                        "id": 2,        
-                        "name": "Feature 2",
-                        "description": "This is Feature 2"
-                    },
-                    {
-                        "id": 3,        
-                        "name": "Feature 3",
-                        "description": "This is Feature 3"
-                    }
+                        "name": "",
+                        "description": ""
+                    }                    
                 ],
                 "safety features": [],
                 "availability features":[],
@@ -357,18 +308,13 @@
                     {
                         "name": "Brochure",
                         "type": 0,
-                        "link": "www"
+                        "link": "https://www.se.com/in/en/download/document/998-20593900_GMA/"
                     },
                     {
                         "name": "Video",
                         "type": 1,
-                        "link": "www"
-                    },
-                    {
-                        "name": "PDF",
-                        "type": 2,
-                        "link": "www"
-                    },
+                        "link": "https://youtu.be/sqgGF4ROiK8"
+                    },                    
                     {
                         "name": "Others",
                         "type": 3,
