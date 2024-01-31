@@ -1,6 +1,6 @@
 [
     {
-        "name": "RMU",
+        "name": "Ring Main Unit",
         "description": "a Ring Main Unit (RMU) is a compact switchgear used for distributing electrical power in urban and industrial areas. Main functions include distribution network segmentation, fault detection and isolation, load management, and voltage regulation.",
         "iconlink": "",
         "features": [
