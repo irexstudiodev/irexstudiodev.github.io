@@ -2,7 +2,7 @@
     {
         "name": "Ring Main Unit",
         "description": "a Ring Main Unit (RMU) is a compact switchgear used for distributing electrical power in urban and industrial areas. Main functions include distribution network segmentation, fault detection and isolation, load management, and voltage regulation.",
-        "iconlink": "",
+        "iconlink": "https://irexstudiodev.github.io/api/schneider-demo-sales-tool/icons/BlokSeT.png",
         "features": [
             {
                 "id": 1,        
@@ -51,7 +51,7 @@
     {
         "name": "MV Room",
         "description": "A MV Room is a dedicated space that houses medium voltage electrical equipment, ensuring their safe operation, easy maintenance, and centralized control. Its ensures equipment housing, safety and protection, accessibility for maintenance, system monitoring and control, and power distribution.",
-        "iconlink": "",
+        "iconlink": "https://irexstudiodev.github.io/api/schneider-demo-sales-tool/icons/MV Panel.png",
         "features": [
             {
                 "id": 1,        
@@ -100,7 +100,7 @@
     {
         "name": "Transformer Yard",
         "description": "A Transformer Yard is an area within an electrical substation where power transformers are installed. It serves as a hub for transforming and distributing electrical power. The main purpose of a transformer yard is to step up or step down the voltage levels to facilitate efficient power transmission and distribution.",
-        "iconlink": "",
+        "iconlink": "https://irexstudiodev.github.io/api/schneider-demo-sales-tool/icons/Transformer.png",
         "features": [
             {
                 "id": 1,        
@@ -149,7 +149,7 @@
     {
         "name": "Isolator Panel Room",
         "description": "An Isolator Panel Room is a dedicated area within an electrical substation or facility where isolators or disconnect switches are housed. Isolators are devices used to disconnect electrical equipment or sections of a power system from the main power supply, ensuring safety during maintenance or in case of emergencies.",
-        "iconlink": "",
+        "iconlink": "https://irexstudiodev.github.io/api/schneider-demo-sales-tool/icons/BlokSeT.png",
         "features": [
             {
                 "id": 1,        
@@ -198,7 +198,7 @@
     {
         "name": "Main LT Panel Room",
         "description": "A Main LT Panel Room, is a dedicated space within a building or facility that houses the main low-voltage electrical distribution panel. It is typically located near the main power source and serves as the central point for controlling and distributing electricity throughout the premises",
-        "iconlink": "",
+        "iconlink": "https://irexstudiodev.github.io/api/schneider-demo-sales-tool/icons/BlokSeT.png",
         "features": [
             {
                 "id": 1,        
@@ -247,7 +247,7 @@
     {
         "name": "SubLT Panel Room",
         "description": "A Sub LT Panel Room, also known as a Sub Low-Tension (LT) Panel Room, is a dedicated space within a building or facility that houses secondary low-voltage electrical distribution panels. It is typically located closer to the loads it serves, such as specific areas or floors of a building.",
-        "iconlink": "",
+        "iconlink": "https://irexstudiodev.github.io/api/schneider-demo-sales-tool/icons/SubDistriBoard.png",
         "features": [
             {
                 "id": 1,        

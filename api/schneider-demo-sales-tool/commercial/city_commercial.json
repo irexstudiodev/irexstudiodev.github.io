@@ -2,7 +2,7 @@
     {
         "name": "Ring Main Unit",
         "description": "This is the RMU",
-        "iconlink": "",
+        "iconlink": "https://irexstudiodev.github.io/api/schneider-demo-sales-tool/icons/BlokSeT.png",
         "features": [
             {
                 "id": 1,        
@@ -51,7 +51,7 @@
     {
         "name": "HV Room",
         "description": "This is the HV Room",
-        "iconlink": "",
+        "iconlink": "https://irexstudiodev.github.io/api/schneider-demo-sales-tool/icons/MV Panel.png",
         "features": [
             {
                 "id": 1,        
@@ -100,7 +100,7 @@
     {
         "name": "Transfer Yard",
         "description": "This is the Transfer Yard",
-        "iconlink": "",
+        "iconlink": "https://irexstudiodev.github.io/api/schneider-demo-sales-tool/icons/Transformer.png",
         "features": [
             {
                 "id": 1,        
@@ -149,7 +149,7 @@
     {
         "name": "Isolation Room",
         "description": "This is the Isolation Room",
-        "iconlink": "",
+        "iconlink": "https://irexstudiodev.github.io/api/schneider-demo-sales-tool/icons/BlokSeT.png",
         "features": [
             {
                 "id": 1,        
@@ -198,7 +198,7 @@
     {
         "name": "Main LT",
         "description": "This is the Main LT",
-        "iconlink": "",
+        "iconlink": "https://irexstudiodev.github.io/api/schneider-demo-sales-tool/icons/BlokSeT.png",
         "features": [
             {
                 "id": 1,        
