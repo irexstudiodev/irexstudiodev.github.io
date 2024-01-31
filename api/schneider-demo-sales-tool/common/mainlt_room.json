@@ -391,6 +391,53 @@
         ],
         "products":[
             {
+                "name": "HeatTag",
+                "description": "HeatTag is an innovative Smart sensor detects gas and particles in the switchboard and alerts before any smoke or insulator browning occurs.",
+                "features": [
+                    {
+                        "id": 1,        
+                        "name": "Key features",
+                        "description": "1. HeatTag is neither a fire detector nor a smoke detector. Between 170°C and 200°C, typical LV cable-insulation materials, such as PVC / XLPE / EPR, are subject to invisible transformation. These abnormal conditions can be detected by HeatTag. 2. HeatTag detects and analyzes the different gases and particles in the air of the switchboard (14 gases measured, along with particles), applies a complex algorithm to select internal cable issues from other phenomena, and can distinguish abnormal situations that indicate a cable is overheating and sends an alarm. 3. Paired with Schneider Electric panel servers or gateways, HeatTag reports: Alerts, Air quality index, Temperature and humidity measurement, Self-diagnosis information"
+                    },
+                    {
+                        "id": 2,        
+                        "name": "Feature 2",
+                        "description": "This is Feature 2"
+                    },
+                    {
+                        "id": 3,        
+                        "name": "Feature 3",
+                        "description": "This is Feature 3"
+                    }
+                ],
+                "safety features": [],
+                "availability features":[],
+                "efficiency features":[],
+                "sustainability features":[],
+                "links":[
+                    {
+                        "name": "Brochure",
+                        "type": 0,
+                        "link": "www"
+                    },
+                    {
+                        "name": "Video",
+                        "type": 1,
+                        "link": "www"
+                    },
+                    {
+                        "name": "PDF",
+                        "type": 2,
+                        "link": "www"
+                    },
+                    {
+                        "name": "Others",
+                        "type": 3,
+                        "link": "www"
+                    }
+                ]
+            },
+            {
                 "name": "IFE",
                 "description": "The interface ethernet (IFE) module allows you to view and streamline data from your low voltage electrical equipment assets and allows the display of status and energy data and alarm notification from each circuit breaker via TCP/ IP connectivity. The embedded web pages within the IFE module allow this data to be viewed on a web browser with a simple ethernet connection.",
                 "features": [
@@ -483,54 +530,8 @@
                         "link": "www"
                     }
                 ]
-            },
-            {
-                "name": "HeatTag",
-                "description": "HeatTag is an innovative Smart sensor detects gas and particles in the switchboard and alerts before any smoke or insulator browning occurs.",
-                "features": [
-                    {
-                        "id": 1,        
-                        "name": "Key features",
-                        "description": "1. HeatTag is neither a fire detector nor a smoke detector. Between 170°C and 200°C, typical LV cable-insulation materials, such as PVC / XLPE / EPR, are subject to invisible transformation. These abnormal conditions can be detected by HeatTag. 2. HeatTag detects and analyzes the different gases and particles in the air of the switchboard (14 gases measured, along with particles), applies a complex algorithm to select internal cable issues from other phenomena, and can distinguish abnormal situations that indicate a cable is overheating and sends an alarm. 3. Paired with Schneider Electric panel servers or gateways, HeatTag reports: Alerts, Air quality index, Temperature and humidity measurement, Self-diagnosis information"
-                    },
-                    {
-                        "id": 2,        
-                        "name": "Feature 2",
-                        "description": "This is Feature 2"
-                    },
-                    {
-                        "id": 3,        
-                        "name": "Feature 3",
-                        "description": "This is Feature 3"
-                    }
-                ],
-                "safety features": [],
-                "availability features":[],
-                "efficiency features":[],
-                "sustainability features":[],
-                "links":[
-                    {
-                        "name": "Brochure",
-                        "type": 0,
-                        "link": "www"
-                    },
-                    {
-                        "name": "Video",
-                        "type": 1,
-                        "link": "www"
-                    },
-                    {
-                        "name": "PDF",
-                        "type": 2,
-                        "link": "www"
-                    },
-                    {
-                        "name": "Others",
-                        "type": 3,
-                        "link": "www"
-                    }
-                ]
             }
+            
         ]
     },
     {
