@@ -6,13 +6,18 @@
         "features": [
             {
                 "id": 1,        
-                "name": "Range",
+                "name": "Range Overview",
                 "description": "Gas insulated switchgear 12 kV 21kA/3sec suitable for transformer protection from 200 kVA up to 2500 kVA."
             },
             {
                 "id": 2,        
                 "name": "Safety and Compliance",
                 "description": "Comply to IEC – 62271-100 standard and are IAC – AFL tested. The new designed IP54 enclosure brings extended lifetime for outdoor installations."
+            },
+            {
+                "id": 3,        
+                "name": "Easy Selection",
+                "description": "\u2022 A simple & dedicated online selection for FBX India with 29 standard references. \u2022 Configure/Select equipment online with Ecoreal Express."
             }
         ],
         "safety features": [],
