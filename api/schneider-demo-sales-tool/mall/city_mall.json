@@ -1,6 +1,6 @@
 [
     {
-        "name": "RMU",
+        "name": "Ring Main Unit",
         "description": "This is the RMU",
         "iconlink": "",
         "features": [
@@ -245,7 +245,7 @@
         "products":[]
     },
     {
-        "name": "SubLT",
+        "name": "Sub LT",
         "description": "This is the SubLT",
         "iconlink": "",
         "features": [
