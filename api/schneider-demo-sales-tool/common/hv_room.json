@@ -17,7 +17,7 @@
             {
                 "id": 3,        
                 "name": "Reliability",
-                "description": "Maximizing service continuity to minimize down time thanks to LSC-2B IEC classification \n \u2022 Busbar segregation between cubicles (option) \n \u2022 It is designed for 30 years life time with respect of installation, operations and environmental conditions"
+                "description": "\u2022 Maximizing service continuity to minimize down time thanks to LSC-2B IEC classification \n \u2022 Busbar segregation between cubicles (option) \n \u2022 It is designed for 30 years life time with respect of installation, operations and environmental conditions"
             }
         ],
         "safety features": [],
@@ -292,7 +292,7 @@
             },
             {
                 "name": "FE Logboook",
-                "description": "The digital logbook is an easy to use collaborative tool that keeps record of important documentation and maintenance schedules. With EcoStruxure Power from Schneider Electric, you can offer your customers the cutting-edge, end-to-end digital solutions they are looking for to make their buildings more efficient and reliable. And now, with the addition of the Digital Logbook, EcoStruxure Power is an even stronger asset in all phases of a building’s lifecycle – from design and installation to operation and maintenance. The digital logbook can be initiated by a panel builder using EcoStruxure Power Commission during switchboard construction. Then during the project handover, this “digital twin” can be shared to the contractor or the Facility Manager on EcoStruxure Facility Expert. The Digital Twin allows people to keep record of important construction documentations, user guide and maintenance schedules, collaborating better and delivering with greater insights and cost savings. And once a building is operational, facility managers or service providers have easy access to key information and maintenance plan which is critical for electrical facility upkeep.",
+                "description": "The digital logbook is an easy to use collaborative tool that keeps record of important documentation and maintenance schedules. With EcoStruxure Power from Schneider Electric, you can offer your customers the cutting-edge, end-to-end digital solutions they are looking for to make their buildings more efficient and reliable. The digital logbook can be initiated by a panel builder using EcoStruxure Power Commission during switchboard construction.",
                 "features": [
                     {
                         "id": 1,        

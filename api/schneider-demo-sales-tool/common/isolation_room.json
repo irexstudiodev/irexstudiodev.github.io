@@ -1,24 +1,14 @@
 [
     {
-        "name": "Blockset 1",
-        "description": "This is the Blockset 1",
+        "name": "BlokSeT",
+        "description": "\u2022 LV switchboard for intelligent power and motor control. \n \u2022 Rated current for Cu up to 7000A for 100 kA for 1s.\n \u2022 Tested for IAC as per IEC 61641 Cu 100 kA - 0.4 s, Al 65kA - 0.5s",
         "iconlink": "",
         "features": [
             {
                 "id": 1,        
-                "name": "Feature 1",
-                "description": "This is Feature 1"
-            },
-            {
-                "id": 2,        
-                "name": "Feature 2",
-                "description": "This is Feature 2"
-            },
-            {
-                "id": 3,        
-                "name": "Feature 3",
-                "description": "This is Feature 3"
-            }
+                "name": "",
+                "description": ""
+            }            
         ],
         "safety features": [],
         "availability features":[],
@@ -33,16 +23,6 @@
             {
                 "name": "Video",
                 "type": 1,
-                "link": "www"
-            },
-            {
-                "name": "PDF",
-                "type": 2,
-                "link": "www"
-            },
-            {
-                "name": "Others",
-                "type": 3,
                 "link": "www"
             }
         ],
@@ -81,23 +61,13 @@
                         "name": "Video",
                         "type": 1,
                         "link": "www"
-                    },
-                    {
-                        "name": "PDF",
-                        "type": 2,
-                        "link": "www"
-                    },
-                    {
-                        "name": "Others",
-                        "type": 3,
-                        "link": "www"
                     }
                 ]
             }
         ]
     },
     {
-        "name": "Blockset 2",
+        "name": "BlokSeT",
         "description": "This is the Blockset 2",
         "iconlink": "",
         "features": [
