@@ -792,13 +792,13 @@
         ],
         "products":[
             {
-                "name": "NW 3 Pole",
-                "description": "This is NW 3 Pole",
+                "name": "MasterPact NW",
+                "description": "MasterPact NW circuit breakers in two sizes : \n \u2022 NW1 : From 800 to 4000 A   \n \u2022 NW2 : From 4000 to 6300 A",
                 "features": [
                     {
                         "id": 1,        
                         "name": "Trip Unit",
-                        "description": "This is Feature 1"
+                        "description": "\u2022 Mic A & E (2.0,5.0, 6.0,7.0) \n \u2022 Mic P(5.0,6.0,7.0) \n \u2022 Mic H (5.0,6.0,7.0)"
                     },
                     {
                         "id": 2,        
@@ -807,7 +807,7 @@
                     },
                     {
                         "id": 3,        
-                        "name": "BCM Module, ULP cord",
+                        "name": "Connectivity",
                         "description": "This is Feature 3"
                     },
                     {
@@ -822,8 +822,8 @@
                     },
                     {
                         "id": 6,        
-                        "name": "SDE2 Res M4C",
-                        "description": "Custom Animation"
+                        "name": "MN/MX Coil, MCH, SD Coils",
+                        "description": "Feature"
                     }
                 ],
                 "safety features": [],
