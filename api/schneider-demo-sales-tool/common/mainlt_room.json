@@ -889,12 +889,17 @@
                     {
                         "id": 4,        
                         "name": "Rogowski CT",
-                        "description": "This is Feature 3"
+                        "description": "This is Feature 4"
                     },
                     {
                         "id": 5,        
                         "name": "Terminal Adaptors",
-                        "description": "This is Feature 3"
+                        "description": "This is Feature 5"
+                    },
+                    {
+                        "id": 6,        
+                        "name": "SDE2 Res M4C",
+                        "description": "Custom Animation"
                     }
                 ],
                 "safety features": [],
