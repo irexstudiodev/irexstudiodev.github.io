@@ -85,11 +85,6 @@
                         "id": 8,        
                         "name": "Extensive communication",
                         "description": "A large number of supported communication protocols are included: IEC 60870-5-101, IEC 60870-5-103, Modbus TCP, Modbus RTU, Profibus DP, TCP/IP, SPA-bus slave, DNP 3.0 and IEC 61850."
-                    },
-                    {
-                        "id": 9,        
-                        "name": "User-friendly configuration",
-                        "description": "The free of charge VAMPSET software simplifies configuration, commissioning and operation and ensures the protection and control needs of users are easily achieved. Standard USB (type B) cable and connection for setting tool."
                     }
                 ],
                 "safety features": [],
