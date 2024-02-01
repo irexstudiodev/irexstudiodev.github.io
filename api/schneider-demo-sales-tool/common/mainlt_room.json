@@ -64,7 +64,7 @@
                     {
                         "id": 6,        
                         "name": "Ready to close mechanism",
-                        "description": "Front mounted Accessories - Equipped with front mounted Motor Mechanism, MN/MX Coil and Continuous Shunt Coil. Breaker closes after checking the following conditions : 1. the circuit breaker is in the OFF position 2. the spring mechanism is charged 3. a maintained opening order is not present: i) MN (UV coil)  energised ii) Trip unit in reset position iii) remote tripping MX or MN iv)device not completely racked in v) device locked in OFF position vi)device interlocked with a second device, opening order is present"
+                        "description": "Front mounted Accessories - Equipped with front mounted Motor Mechanism, MN/MX Coil and Continuous Shunt Coil. Breaker closes after checking the following conditions : \n 1. the circuit breaker is in the OFF position \n 2. the spring mechanism is charged \n 3. a maintained opening order is not present: \n \u2022 i) MN (UV coil)  energised \n \u2022 ii) Trip unit in reset position \n \u2022 iii) remote tripping MX or MN \n \u2022 iv)device not completely racked in \n \u2022 v) device locked in OFF position \n \u2022 vi)device interlocked with a second device, opening order is present"
                     },
                     {
                         "id": 7,        
