@@ -95,6 +95,100 @@
                 ]
             },
             {
+                "name": "CVS",
+                "description": "This is CVS",
+                "features": [
+                    {
+                        "id": 1,        
+                        "name": "Feature 1",
+                        "description": "This is Feature 1"
+                    },
+                    {
+                        "id": 2,        
+                        "name": "Feature 2",
+                        "description": "This is Feature 2"
+                    },
+                    {
+                        "id": 3,        
+                        "name": "Feature 3",
+                        "description": "This is Feature 3"
+                    }
+                ],
+                "safety features": [],
+                "availability features":[],
+                "efficiency features":[],
+                "sustainability features":[],
+                "links":[
+                    {
+                        "name": "Brochure",
+                        "type": 0,
+                        "link": "www"
+                    },
+                    {
+                        "name": "Video",
+                        "type": 1,
+                        "link": "www"
+                    },
+                    {
+                        "name": "PDF",
+                        "type": 2,
+                        "link": "www"
+                    },
+                    {
+                        "name": "Others",
+                        "type": 3,
+                        "link": "www"
+                    }
+                ]
+            },
+            {
+                "name": "Transfer pact",
+                "description": "This is Transfer pact",
+                "features": [
+                    {
+                        "id": 1,        
+                        "name": "Feature 1",
+                        "description": "This is Feature 1"
+                    },
+                    {
+                        "id": 2,        
+                        "name": "Feature 2",
+                        "description": "This is Feature 2"
+                    },
+                    {
+                        "id": 3,        
+                        "name": "Feature 3",
+                        "description": "This is Feature 3"
+                    }
+                ],
+                "safety features": [],
+                "availability features":[],
+                "efficiency features":[],
+                "sustainability features":[],
+                "links":[
+                    {
+                        "name": "Brochure",
+                        "type": 0,
+                        "link": "www"
+                    },
+                    {
+                        "name": "Video",
+                        "type": 1,
+                        "link": "www"
+                    },
+                    {
+                        "name": "PDF",
+                        "type": 2,
+                        "link": "www"
+                    },
+                    {
+                        "name": "Others",
+                        "type": 3,
+                        "link": "www"
+                    }
+                ]
+            },
+            {
                 "name": "Busbar support",
                 "description": "This is Busbar support",
                 "features": [
@@ -189,53 +283,6 @@
                 ]
             },
             {
-                "name": "FE Logboook QR code",
-                "description": "This is FE Logboook QR code",
-                "features": [
-                    {
-                        "id": 1,        
-                        "name": "Feature 1",
-                        "description": "This is Feature 1"
-                    },
-                    {
-                        "id": 2,        
-                        "name": "Feature 2",
-                        "description": "This is Feature 2"
-                    },
-                    {
-                        "id": 3,        
-                        "name": "Feature 3",
-                        "description": "This is Feature 3"
-                    }
-                ],
-                "safety features": [],
-                "availability features":[],
-                "efficiency features":[],
-                "sustainability features":[],
-                "links":[
-                    {
-                        "name": "Brochure",
-                        "type": 0,
-                        "link": "www"
-                    },
-                    {
-                        "name": "Video",
-                        "type": 1,
-                        "link": "www"
-                    },
-                    {
-                        "name": "PDF",
-                        "type": 2,
-                        "link": "www"
-                    },
-                    {
-                        "name": "Others",
-                        "type": 3,
-                        "link": "www"
-                    }
-                ]
-            },
-            {
                 "name": "Heat tag",
                 "description": "This is Heat tag",
                 "features": [
@@ -283,8 +330,8 @@
                 ]
             },
             {
-                "name": "CVS",
-                "description": "This is CVS",
+                "name": "PAS",
+                "description": "This is PAS",
                 "features": [
                     {
                         "id": 1,        
@@ -330,8 +377,8 @@
                 ]
             },
             {
-                "name": "Transfer pact",
-                "description": "This is Transfer pact",
+                "name": "IFE",
+                "description": "This is IFE",
                 "features": [
                     {
                         "id": 1,        
@@ -471,55 +518,8 @@
                 ]
             },
             {
-                "name": "PAS",
-                "description": "This is PAS",
-                "features": [
-                    {
-                        "id": 1,        
-                        "name": "Feature 1",
-                        "description": "This is Feature 1"
-                    },
-                    {
-                        "id": 2,        
-                        "name": "Feature 2",
-                        "description": "This is Feature 2"
-                    },
-                    {
-                        "id": 3,        
-                        "name": "Feature 3",
-                        "description": "This is Feature 3"
-                    }
-                ],
-                "safety features": [],
-                "availability features":[],
-                "efficiency features":[],
-                "sustainability features":[],
-                "links":[
-                    {
-                        "name": "Brochure",
-                        "type": 0,
-                        "link": "www"
-                    },
-                    {
-                        "name": "Video",
-                        "type": 1,
-                        "link": "www"
-                    },
-                    {
-                        "name": "PDF",
-                        "type": 2,
-                        "link": "www"
-                    },
-                    {
-                        "name": "Others",
-                        "type": 3,
-                        "link": "www"
-                    }
-                ]
-            },
-            {
-                "name": "IFE",
-                "description": "This is IFE",
+                "name": "FE Logboook QR code",
+                "description": "This is FE Logboook QR code",
                 "features": [
                     {
                         "id": 1,        
