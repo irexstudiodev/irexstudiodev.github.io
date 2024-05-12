@@ -29,8 +29,9 @@ body {
   display: none;
 }
 #unity-logo {
-  width: 90px;
-  height: 90px;
+  width: 130px;
+  height: 130px;
+  object-fit: contain;
   background: url("../Assets/logo.png") no-repeat center;
 }
 #unity-progress-bar-empty {
