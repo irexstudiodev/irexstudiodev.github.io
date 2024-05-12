@@ -15,7 +15,7 @@ body {
   height: 100%;
 }
 #unity-canvas {
-  z-index: 99;
+    z-index: 99;
 }
 .unity-mobile #unity-canvas {
   width: 100%;
@@ -29,8 +29,8 @@ body {
   display: none;
 }
 #unity-logo {
-  width: 130px;
-  height: 130px;
+  width: 100%;
+  height: auto;
   background: url("../Assets/logo.png") no-repeat center;
 }
 #unity-progress-bar-empty {
@@ -54,9 +54,8 @@ body {
 }
 #unity-webgl-logo {
   float: left;
-  width: 200px;
-  height: auto;
-  margin-bottom: -15px;
+  width: 204px;
+  height: 38px;
   background: url("../Assets/poweredby-dark.png") no-repeat center;
 }
 #unity-build-title {
