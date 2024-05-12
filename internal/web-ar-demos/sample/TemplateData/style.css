@@ -15,7 +15,7 @@ body {
   height: 100%;
 }
 #unity-canvas {
-  background-image: linear-gradient(to top right, #272829 , #7C2AE8);
+  z-index: 99;
 }
 .unity-mobile #unity-canvas {
   width: 100%;
@@ -54,8 +54,9 @@ body {
 }
 #unity-webgl-logo {
   float: left;
-  width: 204px;
-  height: 38px;
+  width: 200px;
+  height: auto;
+  margin-bottom: -15px;
   background: url("../Assets/poweredby-dark.png") no-repeat center;
 }
 #unity-build-title {
