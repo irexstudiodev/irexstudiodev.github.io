@@ -30,7 +30,7 @@ body {
 }
 #unity-logo {
   width: 90px;
-  height: auto;
+  height: 90px;
   background: url("../Assets/logo.png") no-repeat center;
 }
 #unity-progress-bar-empty {
