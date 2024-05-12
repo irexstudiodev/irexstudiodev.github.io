@@ -31,7 +31,7 @@ body {
 #unity-logo {
   width: 130px;
   height: 130px;
-  object-fit: contain;
+  object-fit: scale-down;
   background: url("../Assets/logo.png") no-repeat center;
 }
 #unity-progress-bar-empty {
