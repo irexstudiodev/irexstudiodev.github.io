@@ -118,6 +118,9 @@
 
         initialize();
 
+        function hideLoadingScreen() {
+            loadingBar.style.display = "none";
+        }
 
         var container = document.querySelector("#unity-container");
         var canvas = document.querySelector("#unity-canvas");
@@ -146,7 +149,7 @@
                 ).then((unityInstance) => {
                 window.unityInstance = unityInstance;
                 RequestWebcam();
-                loadingBar.style.display = "none";
+                setTimeout(hideLoadingScreen, 2000);
             });
             StartMotionSensors();
             
